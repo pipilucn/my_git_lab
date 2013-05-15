@@ -1,0 +1,8 @@
+
+project files
+======================
+Makefile is project file
+mygpio.c is implementation
+mygpio.h is some macro definition
+myioctl.h is about ioctl cmd
+README this
