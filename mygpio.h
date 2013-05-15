@@ -54,4 +54,3 @@ struct GPIO_DEV
     struct device *mydev;*/
 } mygpio_dev;
 
-
